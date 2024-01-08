@@ -1,0 +1,81 @@
+{
+    "home": [
+        {
+            "name": "Warren Jaftha",
+            "title":"Full Stack Developer",
+            "description":"Specializes in Web design, mobile applications and social media",
+            "coverImage":"random link"
+        }   
+    ]
+    ,
+
+    "about": [    
+    "Hello, Im Warren Jaftha, a 22-year-old enthuisiast with an unwavering love for programming. Ever since i was a kid, ive been captivated by the world of technology and the power of code",
+    "Its remarkable how lines of code can transform abstract ideas into tangible, functional software.",
+    "My journey into programming began with simple scripts and gradually evolved into complex applications.I believe that programming is a creative outlet where i can turn my imagination into reality.",
+    "Whether its developing web applications, crafting mobile apps, or even diving into data analysis, i relish the opportunity to solve problems and build innovative solution using the language of code"
+
+        
+       
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2019,
+            "description": "High Certificate in Information,Communication and Technology",
+            "place": "Cape Peninsula University of Technology",
+            "type": "certificate"
+        },
+        {
+            "id": 2,
+            "year": 2022,
+            "description": "Diploma in Information,Communication and Technology:Application Development",
+            "place": "Cape Peninsula University of Technology",
+            "type": "diploma"
+        },
+        {
+            "id": 3,
+            "year": 2024,
+            "description": "B-Tech in Information and Communication Technology:Application Development",
+            "place": "Cape Peninsula University of Technology",
+            "type": "B-tech"
+        }
+
+    ],
+    "skills": [
+        {
+            "title": " HTML",
+            "experience": "I have been coding in HTML since 2019 all the way to 2023. I have coded multiple websites ranging from simple landing pages all the way to login and registration pages. As you will see by my projects I have coded an entire fully functioning Razor website using html,css and javascript"
+        },
+        {
+            "title": "CSS",
+            "experience": "I am proficient in CSS, I am adept in leveraging its various properties and techniques to style and design web elements effectively."
+        },
+        {
+            "title": "Javascript",
+            "experience": "I have been coding using Javascript since 2019-2023 using it to provide functionality to websites. The places where I most often used javascript was usually with login and registration pages and when having to interact with databases"
+        },
+        {
+            "title": "Java",
+            "experience": "I have been specializing with coding in Java since 2020-2023. I have coded front-end user interfaces using Java and entire fully functioning Database Management Systems. I also have experience with coding APIs. "
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Corne",
+            "surname": "Ballie",
+            "quotes": "Warren's programming expertise is exceptional. His knack for problem-solving and dedication to writing clean, efficient code is truly impressive. His efficiency with which he designs his websites is simply put impressive",
+            "profile": "https://i.postimg.cc/P5gq3Hr6/corne.jpg"
+        }
+    ],
+    "projects":[
+        {
+            "name": "Netflix",
+            "description": "I built this realistic Netflix replica using bootstrap ,css and html",
+            "image": "https://i.postimg.cc/BbdCh9T3/netflixcut.png",
+            "gitHub": "https://github.com/Wareezy/Netflix.git",
+            "netlify": "https://chipper-medovik-751781.netlify.app"
+        }
+    ]
+}
+
