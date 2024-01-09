@@ -9,11 +9,19 @@
     ]
     ,
 
-    "about": [    
-    "Hello, Im Warren Jaftha, a 22-year-old enthuisiast with an unwavering love for programming. Ever since i was a kid, ive been captivated by the world of technology and the power of code",
-    "Its remarkable how lines of code can transform abstract ideas into tangible, functional software.",
-    "My journey into programming began with simple scripts and gradually evolved into complex applications.I believe that programming is a creative outlet where i can turn my imagination into reality.",
-    "Whether its developing web applications, crafting mobile apps, or even diving into data analysis, i relish the opportunity to solve problems and build innovative solution using the language of code"
+    "about": [    {
+        "title":"ABOUT",
+        "description1":"Hello, Im Warren Jaftha, a 22-year-old enthuisiast with an unwavering love for programming.",
+        "description2":"Ever since i was a kid, ive been captivated by the world of technology and the power of code",
+        "description3":"Its remarkable how lines of code can transform abstract ideas into tangible, functional software.",
+        "description4":"My journey into programming began with simple scripts and gradually evolved into complex applications.",
+        "description5":"I believe that programming is a creative outlet where i can turn my imagination into reality.",
+        "description6":"Whether its developing web applications, crafting mobile apps, or even diving into data analysis",
+        "description7":"i relish the opportunity to solve problems and build innovative solution using the language of code",
+        "homeImage":"https://drive.google.com/uc?id=1-9YE-YK-cikVHnakDbKR2M-E-iOmCE5t"
+
+    }
+    
 
         
        
