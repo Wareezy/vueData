@@ -71,6 +71,10 @@
     ],
     "testimonials": [
         {
+            "name":"TESTIMONIALS",
+            "quotes":"Come see what all these individuals have to say about me!"
+        },
+        {
             "name": "Corne",
             "surname": "Ballie",
             "quotes": "Warren's programming expertise is exceptional. His knack for problem-solving and dedication to writing clean, efficient code is truly impressive. His efficiency with which he designs his websites is simply put impressive",
