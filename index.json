@@ -71,8 +71,8 @@
     ],
     "testimonials": [
         {
-            "name":"TESTIMONIALS",
-            "quotes":"Come see what all these individuals have to say about me!"
+            "title":"TESTIMONIALS",
+            "description":"Come see what all these individuals have to say about me!"
         },
         {
             "name": "Corne",
