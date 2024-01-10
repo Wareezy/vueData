@@ -118,7 +118,7 @@
             "titleProjects":"PROJECTS"
         },
         {
-            "name": "Netflix",
+            "name": "NETFLIX",
             "image": "https://drive.google.com/uc?id=1XWqbrcpy282BoDJXwjnjgWp9_hNhWwR-",
             "gitHub": "https://github.com/Wareezy/Netflix.git",
             "netlify": "https://chipper-medovik-751781.netlify.app"
