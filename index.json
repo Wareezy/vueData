@@ -9,7 +9,8 @@
     ]
     ,
 
-    "about": [    {
+    "about": [    
+        {
         "title":"ABOUT",
         "description1":"Hello, Im Warren Jaftha, a 22-year-old enthuisiast with an unwavering love for programming.",
         "description2":"Ever since i was a kid, ive been captivated by the world of technology and the power of code",
@@ -73,17 +74,82 @@
             "name": "Corne",
             "surname": "Ballie",
             "quotes": "Warren's programming expertise is exceptional. His knack for problem-solving and dedication to writing clean, efficient code is truly impressive. His efficiency with which he designs his websites is simply put impressive",
-            "profile": "https://i.postimg.cc/P5gq3Hr6/corne.jpg"
-        }
+            "profile": "https://drive.google.com/uc?id=1f--xnrsCgU5k3FWc33tt2-O0BwufKVmx"
+        },
+        {
+        "name": "Matthew",
+        "surname": "Brown",
+        "quotes": "Warren is an outstanding learner in the classroom. His enthusiasm for learning, coupled with his quick grasp of new concepts, makes him a standout student. He demonstrates an impressive ability to absorb and apply knowledge effectively.",
+        "profile": "https://drive.google.com/uc?id=1BlgjkxSk0Bf5yaS4PyjlCtuAN3Nca-zH"
+        },
+        {
+        "name": "Zubair",
+        "surname": "Moerat",
+        "quotes": "I highly recommend Warren Jaftha as a software developer. Their technical expertise, commitment to quality, and strong communication skills make them an asset to any team. I look forward to the opportunity to work with them again in the future.",
+        "profile": "https://drive.google.com/uc?id=1u-DBEaOC--1PPx9flBZpQZTElEKqjJ2C"
+        },
+        {
+        "name": "Akeefah",
+        "surname": "Jones",
+        "quotes": "was has a exceptional logical mindset,which is a fundamental asset for programming. I admire Warren's ability to approach challenges methodically and solve problems with precision, indicating a promising future in the field of coding",
+        "profile": "https://drive.google.com/uc?id=14YOzUrNmlNS6yZXJfLgQY471twBcI9vU"
+    },
+    {
+    "name": "Muhammad",
+    "surname": "Rajah",
+    "quotes": "Warren is a phenom. He is the guy that is guaranteed to bring both the skills and the passion to anything he puts his mind to. He always looks to motivate others to level up and achieve their true potential",
+    "profile": "https://drive.google.com/uc?id=1gqeBhR6kNzWE4SsUTJYN90dhoDW1gMx_"
+    },
+{
+    "name": "Brandon",
+    "surname": "Roulstone",
+    "quotes": "Warren's way of applying logic is exceptionally unique and he is capable of applying his logical way of thinking to everything thing he encounters whether it be in the world outside of work or at work.I am certain that with Warren's genius he will be the best asset in software development industry,his way of thinking when it comes to  overcomplicated issues that may occur in code is outstandingly brilliant his capabilities of problem solving make the complicated things look so simplistic, not only in practical but in theory too he is outrageously and most definitely going to succeed in any work place.",
+    "profile": "https://drive.google.com/uc?id=1QQxEg0lIZSkdJIRQXR9N6u-Kz_MC4UPV"
+}
+
     ],
+
     "projects":[
         {
+            "titleProjects":"PROJECTS"
+        },
+        {
             "name": "Netflix",
-            "description": "I built this realistic Netflix replica using bootstrap ,css and html",
-            "image": "https://i.postimg.cc/BbdCh9T3/netflixcut.png",
+            "image": "https://drive.google.com/uc?id=1XWqbrcpy282BoDJXwjnjgWp9_hNhWwR-",
             "gitHub": "https://github.com/Wareezy/Netflix.git",
             "netlify": "https://chipper-medovik-751781.netlify.app"
+        },
+        {
+            "name": "E-COMMERCE-JAVASCRIPT",
+            "image": "https://drive.google.com/uc?id=13pmEhgPBSZsfZ6g89T-Y3xEqoOxefwNr",
+            "gitHub": "https://github.com/Wareezy/lcEcommerce.git",
+            "netlify": "https://phenomenal-zabaione-e6dc1f.netlify.app"
+        },
+        {
+            "name": "RAZOR",
+            "image": "https://drive.google.com/uc?id=1q8uKa_d4hOczndJFT6q85KKyL_nvaW9Q",
+            "gitHub": "https://github.com/Wareezy/RAZOR.git",
+            "netlify": "https://coruscating-figolla-185758.netlify.app"  
+        },
+        {
+            "name": "CACULATOR",
+            "image": "https://drive.google.com/uc?id=1njzbT1f7bqaFMm7-aIQ5fGUSWiNDSPxG",
+            "gitHub": "https://github.com/Wareezy/LC_Calculator.git",
+            "netlify": "https://chic-hamster-ef7e4e.netlify.app"
+        },
+        {
+            "name": "KEYBOARD",
+            "image": "https://drive.google.com/uc?id=1L4XkGtbMjsLDZHUPsR6ED92ElMSqMIO9",
+            "gitHub": "https://github.com/Wareezy/KEYBOARD.git",
+            "netlify": "https://clinquant-dodol-3631a8.netlify.app"  
+        },
+        {
+            "name": "E-COMMERCE-HTML",
+            "image": "https://drive.google.com/uc?id=1S9cPHl5IqHF-1YHKh49N-AuSS8hfmjaR",
+            "gitHub": "https://github.com/Wareezy/E-Commerce.git",
+            "netlify": "https://admirable-florentine-ab4de0.netlify.app"  
         }
+
     ]
 }
 
