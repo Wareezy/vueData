@@ -67,19 +67,33 @@
         },
         {
             "title": " HTML",
+            "image":"https://i.imgur.com/cVjaHFu.jpg",
             "experience": "I have been coding in HTML since 2019 all the way to 2023. I have coded multiple websites ranging from simple landing pages all the way to login and registration pages. As you will see by my projects I have coded an entire fully functioning Razor website using html,css and javascript"
         },
         {
             "title": "CSS",
+            "image":"https://i.imgur.com/Z3BiC9D.jpg",
             "experience": "I am proficient in CSS, I am adept in leveraging its various properties and techniques to style and design web elements effectively."
         },
         {
             "title": "Javascript",
+            "image":"https://i.imgur.com/kpvPfHQ.jpg",
             "experience": "I have been coding using Javascript since 2019-2023 using it to provide functionality to websites. The places where I most often used javascript was usually with login and registration pages and when having to interact with databases"
         },
         {
             "title": "Java",
+            "image":"https://i.imgur.com/PScWFRx.jpg",
             "experience": "I have been specializing with coding in Java since 2020-2023. I have coded front-end user interfaces using Java and entire fully functioning Database Management Systems. I also have experience with coding APIs. "
+        },
+        {
+            "title":"Kotlin",
+            "image":"https://i.imgur.com/oRK9dVN.jpg",
+            "experience":"I have been coding in kotlin sinces 2021 as i chose it as an elective in my 3rd year of university. I have coded multiple applications ranging from simple mobile applications to complex ones that required data bases and authentication "
+        },
+        {
+            "title":"SQL",
+            "image":"https://i.imgur.com/QQI7K6J.png",
+            "experience":"I have been learning how to create, read, update and delete databases since my first year of university which was in the year 2019 all the way to the present which is 2024 "
         }
     ],
     "resumeContact":[
@@ -88,6 +102,20 @@
             "phone":"0618620283",
             "email":"warrenjaftha16@gmail.com",
             "address":"5 grysbok Avenue, Lotus River 7941"
+        }
+    ],
+    "workExperience":[
+        {
+            "id":1,
+        "description":"Internship at CPUT working on a bursary management system for advanced department of CPUT-District 6 campus- WORDPRESS",
+        "duration":"July 2022-December 2022",
+        "reference":" inderlalp@cput.ac.za  - Ms Prima Inderlal"
+        },
+        {
+            "id":2,
+            "description":"Developed Commerce Website along side a development team named DigiSail",
+            "duration":"1st August 2023-Current",
+            "reference":"nawaazamien9@gmail.com- Nawaaz Amien" 
         }
     ],
     "testimonials": [
