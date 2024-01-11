@@ -106,6 +106,9 @@
     ],
     "workExperience":[
         {
+            "heading":"WORK EXPERIENCE"
+        },
+        {
             "id":1,
         "description":"Internship at CPUT working on a bursary management system for advanced department of CPUT-District 6 campus- WORDPRESS",
         "duration":"July 2022-December 2022",
