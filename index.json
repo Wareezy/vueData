@@ -140,42 +140,42 @@
         },
         {
             "name": "Netflix",
-            "description":"this is a netflix replica that i created using bootstrap",
+            "description":"This is a netflix replica that i created using bootstrap",
             "image": "https://i.imgur.com/3oQifYq.jpg",
             "gitHub": "https://github.com/Wareezy/Netflix.git",
             "netlify": "https://chipper-medovik-751781.netlify.app"
         },
         {
             "name": "E-commerce",
-            "description":"this is a e-commerce website that i created using HTML,CSS and Javascript",
+            "description":"This is a e-commerce website that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/KosrcBb.png",
             "gitHub": "https://github.com/Wareezy/lcEcommerce.git",
             "netlify": "https://phenomenal-zabaione-e6dc1f.netlify.app"
         },
         {
             "name": "Razor Website",
-            "description":"this is a razor replica website that i created using HTML,CSS and Javascript",
+            "description":"This is a razor replica website that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/Xn2I5qQ.png",
             "gitHub": "https://github.com/Wareezy/RAZOR.git",
             "netlify": "https://coruscating-figolla-185758.netlify.app"  
         },
         {
             "name": "Calculator",
-            "description":"this is a calculator that i created using HTML,CSS and Javascript",
+            "description":"This is a calculator that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/czjzpni.png",
             "gitHub": "https://github.com/Wareezy/LC_Calculator.git",
             "netlify": "https://chic-hamster-ef7e4e.netlify.app"
         },
         {
             "name": "Keyboard",
-            "description":"this is a functional keyboard that i created using HTML,CSS and Javascript",
+            "description":"This is a functional keyboard that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/D660Usa.png",
             "gitHub": "https://github.com/Wareezy/KEYBOARD.git",
             "netlify": "https://clinquant-dodol-3631a8.netlify.app"  
         },
         {
             "name": "E-commerce",
-            "description":"this is a e-commerce website that i created using HTML and CSS",
+            "description":"This is a e-commerce website that i created using HTML and CSS",
             "image": "https://i.imgur.com/mUV89i4.png",
             "gitHub": "https://github.com/Wareezy/E-Commerce.git",
             "netlify": "https://admirable-florentine-ab4de0.netlify.app"  
