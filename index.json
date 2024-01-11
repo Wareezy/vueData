@@ -4,7 +4,7 @@
             "name": "Warren Jaftha",
             "title":"Full Stack Developer",
             "description":"Specializes in Web design, mobile applications and social media",
-            "coverImage":"https://drive.google.com/uc?id=1SgGvh25QFNqh6xmWVW1Pb5WeOsQZ749e"
+            "coverImage":"https://i.imgur.com/E9oDbZd.png"
         }   
     ]
     ,
@@ -19,7 +19,7 @@
         "description5":"I believe that programming is a creative outlet where i can turn my imagination into reality.",
         "description6":"Whether its developing web applications, crafting mobile apps, or even diving into data analysis",
         "description7":"i relish the opportunity to solve problems and build innovative solution using the language of code",
-        "homeImage":"https://drive.google.com/uc?id=1-9YE-YK-cikVHnakDbKR2M-E-iOmCE5t"
+        "homeImage":"https://i.imgur.com/4M5DTfO.png"
 
     }
     
@@ -78,37 +78,37 @@
             "fullname": "Corne Ballie",
             "title":"UI/UX Developer",
             "quotes": "Warren's programming expertise is exceptional. His knack for problem-solving and dedication to writing clean, efficient code is truly impressive. His efficiency with which he designs his websites is simply put impressive",
-            "profile": "https://drive.google.com/uc?id=1f--xnrsCgU5k3FWc33tt2-O0BwufKVmx"
+            "profile": "https://i.imgur.com/SXL2YdA.jpg"
         },
         {
         "fullname": "Matthew Brown",
         "title":"Lecturer",
         "quotes": "Warren is an outstanding learner in the classroom. His enthusiasm for learning, coupled with his quick grasp of new concepts, makes him a standout student. He demonstrates an impressive ability to absorb and apply knowledge effectively.",
-        "profile": "https://drive.google.com/uc?id=1BlgjkxSk0Bf5yaS4PyjlCtuAN3Nca-zH"
+        "profile": "https://i.imgur.com/2y5e6xN.png"
         },
         {
         "fullname": "Zubair Moerat",
         "title":"Software Developer",
         "quotes": "I highly recommend Warren Jaftha as a software developer. Their technical expertise, commitment to quality, and strong communication skills make them an asset to any team. I look forward to the opportunity to work with them again in the future.",
-        "profile": "https://drive.google.com/uc?id=1u-DBEaOC--1PPx9flBZpQZTElEKqjJ2C"
+        "profile": "https://i.imgur.com/ltKYxTw.jpg"
         },
         {
         "fullname": "Akeefah Jones",
         "title":"Designer",
         "quotes": "Warren has a exceptional logical mindset,which is a fundamental asset for programming. I admire Warren's ability to approach challenges methodically and solve problems with precision, indicating a promising future in the field of coding",
-        "profile": "https://drive.google.com/uc?id=14YOzUrNmlNS6yZXJfLgQY471twBcI9vU"
+        "profile": "https://i.imgur.com/mlJj6ki.jpg"
     },
     {
     "fullname": "Tamlin Geyer",
     "title":"Front-End Developer",
     "quotes": "Warren is a phenom. He is the guy that is guaranteed to bring both the skills and the passion to anything he puts his mind to. He always looks to motivate others to level up and achieve their true potential",
-    "profile": "https://drive.google.com/uc?id=1rulgaiRLxKhjSf_10zK2JmL01F_5Oja8"
+    "profile": "https://i.imgur.com/GQqCwin.jpg"
     },
 {
     "fullname": "Brandon Edward Roulstone",
     "title":"Back-End Developer",
     "quotes": "Warren's way of applying logic is exceptionally unique and he is capable of applying his logical way of thinking to everything thing he encounters whether it be in the world outside of work or at work.",
-    "profile": "https://drive.google.com/uc?id=1QQxEg0lIZSkdJIRQXR9N6u-Kz_MC4UPV"
+    "profile": "https://i.imgur.com/hXreIXY.jpg"
 }
 
     ],
@@ -119,37 +119,37 @@
         },
         {
             "name": "NETFLIX",
-            "image": "https://drive.google.com/uc?id=1XWqbrcpy282BoDJXwjnjgWp9_hNhWwR-",
+            "image": "https://i.imgur.com/3oQifYq.jpg",
             "gitHub": "https://github.com/Wareezy/Netflix.git",
             "netlify": "https://chipper-medovik-751781.netlify.app"
         },
         {
             "name": "E-COMMERCE-JAVASCRIPT",
-            "image": "https://drive.google.com/uc?id=13pmEhgPBSZsfZ6g89T-Y3xEqoOxefwNr",
+            "image": "https://i.imgur.com/KosrcBb.png",
             "gitHub": "https://github.com/Wareezy/lcEcommerce.git",
             "netlify": "https://phenomenal-zabaione-e6dc1f.netlify.app"
         },
         {
             "name": "RAZOR",
-            "image": "https://drive.google.com/uc?id=1q8uKa_d4hOczndJFT6q85KKyL_nvaW9Q",
+            "image": "https://i.imgur.com/Xn2I5qQ.png",
             "gitHub": "https://github.com/Wareezy/RAZOR.git",
             "netlify": "https://coruscating-figolla-185758.netlify.app"  
         },
         {
             "name": "CALCULATOR",
-            "image": "https://drive.google.com/uc?id=1njzbT1f7bqaFMm7-aIQ5fGUSWiNDSPxG",
+            "image": "https://i.imgur.com/czjzpni.png",
             "gitHub": "https://github.com/Wareezy/LC_Calculator.git",
             "netlify": "https://chic-hamster-ef7e4e.netlify.app"
         },
         {
             "name": "KEYBOARD",
-            "image": "https://drive.google.com/uc?id=1L4XkGtbMjsLDZHUPsR6ED92ElMSqMIO9",
+            "image": "https://i.imgur.com/D660Usa.png",
             "gitHub": "https://github.com/Wareezy/KEYBOARD.git",
             "netlify": "https://clinquant-dodol-3631a8.netlify.app"  
         },
         {
             "name": "E-COMMERCE-HTML",
-            "image": "https://drive.google.com/uc?id=1S9cPHl5IqHF-1YHKh49N-AuSS8hfmjaR",
+            "image": "https://i.imgur.com/mUV89i4.png",
             "gitHub": "https://github.com/Wareezy/E-Commerce.git",
             "netlify": "https://admirable-florentine-ab4de0.netlify.app"  
         }
