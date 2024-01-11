@@ -29,29 +29,42 @@
     ],
     "education": [
         {
+            "heading":"Resume",
+            "name":"Warren Jaftha",
+            "title":"Software Developer",
+            "image":"https://i.imgur.com/iVH9i2N.png"
+        },
+        {
+          "educationHeading":"EDUCATION"  
+        },
+        {
             "id": 1,
-            "year": 2019,
             "description": "High Certificate in Information,Communication and Technology",
             "place": "Cape Peninsula University of Technology",
+            "year": 2019,
             "type": "certificate"
         },
         {
-            "id": 2,
-            "year": 2022,
+            "id": 2, 
             "description": "Diploma in Information,Communication and Technology:Application Development",
             "place": "Cape Peninsula University of Technology",
+            "year": 2022,
             "type": "diploma"
         },
         {
             "id": 3,
-            "year": 2024,
             "description": "B-Tech in Information and Communication Technology:Application Development",
             "place": "Cape Peninsula University of Technology",
+            "year": 2024,
             "type": "B-tech"
         }
 
     ],
     "skills": [
+
+        {
+            "heading":"SKILLS"
+        },
         {
             "title": " HTML",
             "experience": "I have been coding in HTML since 2019 all the way to 2023. I have coded multiple websites ranging from simple landing pages all the way to login and registration pages. As you will see by my projects I have coded an entire fully functioning Razor website using html,css and javascript"
@@ -67,6 +80,14 @@
         {
             "title": "Java",
             "experience": "I have been specializing with coding in Java since 2020-2023. I have coded front-end user interfaces using Java and entire fully functioning Database Management Systems. I also have experience with coding APIs. "
+        }
+    ],
+    "resumeContact":[
+        {
+            "heading":"CONTACT ME",
+            "phone":"0618620283",
+            "email":"warrenjaftha16@gmail.com",
+            "address":"5 grysbok Avenue, Lotus River 7941"
         }
     ],
     "testimonials": [
