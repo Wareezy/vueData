@@ -42,14 +42,14 @@
             "description": "High Certificate in Information,Communication and Technology",
             "place": "Cape Peninsula University of Technology",
             "year": 2019,
-            "type": "certificate"
+            "type": "Certificate"
         },
         {
             "id": 2, 
             "description": "Diploma in Information,Communication and Technology:Application Development",
             "place": "Cape Peninsula University of Technology",
             "year": 2022,
-            "type": "diploma"
+            "type": "Diploma"
         },
         {
             "id": 3,
