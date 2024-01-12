@@ -129,12 +129,8 @@
     "downloadButtonText":[
         {
 
-            "downText":"Download"
-    }
-],
-"downloadLink":[
-    {
-"down":"https://fuchsia-emmie-9.tiiny.site"
+            "downText":"Download",
+            "down":"https://fuchsia-emmie-9.tiiny.site"
     }
 ],
 
