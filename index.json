@@ -121,6 +121,23 @@
             "reference":"nawaazamien9@gmail.com- Nawaaz Amien" 
         }
     ],
+    "downloadHeading":[
+        {
+            "downHead":"DOWNLOAD MY RESUME"
+        }
+    ],
+    "downloadButtonText":[
+        {
+
+            "downText":"Download"
+    }
+],
+"downloadLink":[
+    {
+"down":"https://fuchsia-emmie-9.tiiny.site"
+    }
+],
+
     "testimonials": [
         {
             "title":"TESTIMONIALS",
