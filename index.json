@@ -242,6 +242,13 @@
             "image": "https://i.imgur.com/mUV89i4.png",
             "gitHub": "https://github.com/Wareezy/E-Commerce.git",
             "hosted": "https://admirable-florentine-ab4de0.netlify.app"  
+        },
+        {
+            "name": "TO-DO-LIST",
+            "description":"This is a fully functioning To-DO-LIST website that i created using HTML and CSS",
+            "image": "https://i.ibb.co/Nm0kYcp/screencapture-stalwart-dragon-3d7c9d-netlify-app-2024-03-25-15-35-12.png",
+            "gitHub": "https://github.com/Wareezy/lcToDoLIST.git",
+            "hosted": "https://stalwart-dragon-3d7c9d.netlify.app"  
         }
 
     ]
