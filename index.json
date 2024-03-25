@@ -195,7 +195,7 @@
         {
 
             "name":"OTAKU OASIS",
-            "description":"This is my node e-commerce website I completed along with my teammate",
+            "description":"This is a e-commerce website I completed along with my teammate which involves node,Vue.js as well as css styling",
             "image":"https://i.ibb.co/RgbD8vd/screencapture-eomp-node-wm-web-app-2024-03-25-15-04-55.png",
             "github":"https://github.com/Wareezy/NODE-EOMP-WM.git",
             "hosted":"https://eomp-node-wm.web.app"
@@ -203,7 +203,7 @@
         ,
         {
             "name": "Netflix",
-            "description":"This is a netflix replica that i created using bootstrap",
+            "description":"This is a netflix replica that i created using bootstrap,html and css which i feel really shows off my design skills",
             "image": "https://i.imgur.com/3oQifYq.jpg",
             "gitHub": "https://github.com/Wareezy/Netflix.git",
             "hosted": "https://chipper-medovik-751781.netlify.app"
