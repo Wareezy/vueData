@@ -186,46 +186,62 @@
             "titleProjects":"PROJECTS"
         },
         {
+            "name":"HealthCare Inventory System",
+            "description":"This is my final capstone project that we had to work on which encompasses both backend and frontend",
+            "image":"https://i.ibb.co/Sd8xbvM/screencapture-capstone-inventorysystem-web-app-2024-03-25-14-53-47.png",
+            "github":"https://github.com/Wareezy/HealthCare_Inventory_System-Capstone.git",
+            "hosted":"https://capstone-inventorysystem.web.app"
+        },
+        {
+
+            "name":"OTAKU OASIS",
+            "description":"This is my node e-commerce website I completed along with my teammate",
+            "image":"https://i.ibb.co/RgbD8vd/screencapture-eomp-node-wm-web-app-2024-03-25-15-04-55.png",
+            "github":"https://github.com/Wareezy/NODE-EOMP-WM.git",
+            "hosted":"https://eomp-node-wm.web.app"
+        }
+        ,
+        {
             "name": "Netflix",
             "description":"This is a netflix replica that i created using bootstrap",
             "image": "https://i.imgur.com/3oQifYq.jpg",
             "gitHub": "https://github.com/Wareezy/Netflix.git",
-            "netlify": "https://chipper-medovik-751781.netlify.app"
+            "hosted": "https://chipper-medovik-751781.netlify.app"
         },
         {
             "name": "E-commerce",
             "description":"This is a e-commerce website that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/KosrcBb.png",
             "gitHub": "https://github.com/Wareezy/lcEcommerce.git",
-            "netlify": "https://phenomenal-zabaione-e6dc1f.netlify.app"
+            "hosted": "https://phenomenal-zabaione-e6dc1f.netlify.app"
         },
         {
             "name": "Razor Website",
             "description":"This is a razor replica website that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/Xn2I5qQ.png",
             "gitHub": "https://github.com/Wareezy/RAZOR.git",
-            "netlify": "https://coruscating-figolla-185758.netlify.app"  
+            "hosted": "https://coruscating-figolla-185758.netlify.app"  
         },
         {
             "name": "Calculator",
             "description":"This is a calculator that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/czjzpni.png",
             "gitHub": "https://github.com/Wareezy/LC_Calculator.git",
-            "netlify": "https://chic-hamster-ef7e4e.netlify.app"
+            "hosted": "https://chic-hamster-ef7e4e.netlify.app"
         },
         {
             "name": "Keyboard",
             "description":"This is a functional keyboard that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/D660Usa.png",
             "gitHub": "https://github.com/Wareezy/KEYBOARD.git",
-            "netlify": "https://clinquant-dodol-3631a8.netlify.app"  
+            "hosted": "https://clinquant-dodol-3631a8.netlify.app"  
         },
         {
             "name": "E-commerce",
             "description":"This is a e-commerce website that i created using HTML and CSS",
             "image": "https://i.imgur.com/mUV89i4.png",
             "gitHub": "https://github.com/Wareezy/E-Commerce.git",
-            "netlify": "https://admirable-florentine-ab4de0.netlify.app"  
+            "hosted": "https://admirable-florentine-ab4de0.netlify.app"  
         }
 
     ]
