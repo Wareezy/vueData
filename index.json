@@ -209,18 +209,18 @@
             "hosted": "https://chipper-medovik-751781.netlify.app"
         },
         {
-            "name": "E-commerce",
-            "description":"This is a e-commerce website that i created using HTML,CSS and Javascript",
-            "image": "https://i.imgur.com/KosrcBb.png",
-            "gitHub": "https://github.com/Wareezy/lcEcommerce.git",
-            "hosted": "https://phenomenal-zabaione-e6dc1f.netlify.app"
-        },
-        {
             "name": "Razor Website",
             "description":"This is a razor replica website that i created using HTML,CSS and Javascript",
             "image": "https://i.imgur.com/Xn2I5qQ.png",
             "gitHub": "https://github.com/Wareezy/RAZOR.git",
             "hosted": "https://coruscating-figolla-185758.netlify.app"  
+        },
+        {
+            "name": "E-commerce",
+            "description":"This is a e-commerce website that i created using HTML,CSS and Javascript",
+            "image": "https://i.imgur.com/KosrcBb.png",
+            "gitHub": "https://github.com/Wareezy/lcEcommerce.git",
+            "hosted": "https://phenomenal-zabaione-e6dc1f.netlify.app"
         },
         {
             "name": "Calculator",
