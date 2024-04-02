@@ -13,12 +13,12 @@
         {
         "title":"ABOUT",
         "description1":"Hello, Im Warren Jaftha, a 22-year-old enthuisiast with an unwavering love for programming.",
-        "description2":"Ever since i was a kid, ive been captivated by the world of technology and the power of code",
+        "description2":"Ever since I was a kid, i've been captivated by the world of technology and the power of code.",
         "description3":"Its remarkable how lines of code can transform abstract ideas into tangible, functional software.",
         "description4":"My journey into programming began with simple scripts and gradually evolved into complex applications.",
-        "description5":"I believe that programming is a creative outlet where i can turn my imagination into reality.",
-        "description6":"Whether its developing web applications, crafting mobile apps, or even diving into data analysis",
-        "description7":"i relish the opportunity to solve problems and build innovative solution using the language of code",
+        "description5":"I believe that programming is a creative outlet where I can turn my imagination into reality.",
+        "description6":"Whether its developing web applications, crafting mobile apps, or even diving into data analysis.",
+        "description7":"I relish the opportunity to solve problems and build innovative solution using the language of code.",
         "homeImage":"https://i.imgur.com/4M5DTfO.png"
 
     }
@@ -68,7 +68,7 @@
         {
             "title": " HTML",
             "image":"https://i.imgur.com/cVjaHFu.jpg",
-            "experience": "I have been coding in HTML since 2019 all the way to 2023. I have coded multiple websites ranging from simple landing pages all the way to login and registration pages. As you will see by my projects I have coded an entire fully functioning Razor website using html,css and javascript"
+            "experience": "I have been coding in HTML since 2019 all the way to 2023. I have coded multiple websites ranging from simple landing pages all the way to login and registration pages. As you will see by my projects I have coded an entire fully functioning Razor website using html,css and javascript."
         },
         {
             "title": "CSS",
@@ -78,7 +78,7 @@
         {
             "title": "Javascript",
             "image":"https://i.imgur.com/kpvPfHQ.jpg",
-            "experience": "I have been coding using Javascript since 2019-2023 using it to provide functionality to websites. The places where I most often used javascript was usually with login and registration pages and when having to interact with databases"
+            "experience": "I have been coding using Javascript since 2019-2023 using it to provide functionality to websites. The places where I most often used javascript was usually with login and registration pages and when having to interact with databases."
         },
         {
             "title": "Java",
@@ -88,12 +88,12 @@
         {
             "title":"Kotlin",
             "image":"https://i.imgur.com/oRK9dVN.jpg",
-            "experience":"I have been coding in kotlin since 2021 as i chose it as an elective in my 3rd year of university. I have coded multiple applications ranging from simple mobile applications to complex ones that required data bases and authentication "
+            "experience":"I have been coding in kotlin since 2021 as I chose it as an elective in my 3rd year of university. I have coded multiple applications ranging from simple mobile applications to complex ones that required data bases and authentication."
         },
         {
             "title":"SQL",
             "image":"https://i.imgur.com/QQI7K6J.png",
-            "experience":"I have been learning how to create, read, update and delete databases since my first year of university which was in the year 2019 all the way to the present which is 2024 "
+            "experience":"I have been learning how to create, read, update and delete databases since my first year of university which was in the year 2019 all the way to the present which is 2024."
         }
     ],
     "resumeContact":[
@@ -101,7 +101,7 @@
             "heading":"CONTACT ME",
             "phone":"0618620283",
             "email":"warrenjaftha16@gmail.com",
-            "address":"5 grysbok Avenue, Lotus River 7941"
+            "address":"Cape Town, Lotus River 7941"
         }
     ],
     "workExperience":[
@@ -110,13 +110,13 @@
         },
         {
             "id":1,
-        "description":"Internship at CPUT working on a bursary management system for advanced department of CPUT-District 6 campus- WORDPRESS",
+        "description":"Internship at CPUT working on a bursary management system for advanced department of CPUT-District 6 campus- WORDPRESS.",
         "duration":"July 2022-December 2022",
         "reference":" inderlalp@cput.ac.za  - Ms Prima Inderlal"
         },
         {
             "id":2,
-            "description":"Developed Commerce Website along side a development team named DigiSail",
+            "description":"Developed Commerce Website along side a development team named DigiSail.",
             "duration":"1st August 2023-Current",
             "reference":"nawaazamien9@gmail.com- Nawaaz Amien" 
         }
@@ -145,7 +145,7 @@
         {
             "fullname": "Corne Ballie",
             "title":"UI/UX Developer",
-            "quotes": "Warren's programming expertise is exceptional. His knack for problem-solving and dedication to writing clean, efficient code is truly impressive. His efficiency with which he designs his websites is simply put impressive",
+            "quotes": "Warren's programming expertise is exceptional. His knack for problem-solving and dedication to writing clean, efficient code is truly impressive. His efficiency with which he designs his websites is simply put impressive.",
             "profile": "https://i.ibb.co/zxrZF32/corne.jpg"
         },
         {
@@ -157,19 +157,19 @@
         {
         "fullname": "Zubair Moerat",
         "title":"Software Developer",
-        "quotes": "I highly recommend Warren Jaftha as a software developer. Their technical expertise, commitment to quality, and strong communication skills make them an asset to any team. I look forward to the opportunity to work with them again in the future.",
+        "quotes": "I highly recommend Warren Jaftha as a software developer. Their technical expertise, commitment to quality, and strong communication skills make him an asset to any team. I look forward to the opportunity to work with him again in the future.",
         "profile": "https://i.ibb.co/MMLPdvJ/zubair.jpg"
         },
         {
         "fullname": "Akeefah Jones",
         "title":"Designer",
-        "quotes": "Warren has a exceptional logical mindset,which is a fundamental asset for programming. I admire Warren's ability to approach challenges methodically and solve problems with precision, indicating a promising future in the field of coding",
+        "quotes": "Warren has a exceptional logical mindset,which is a fundamental asset for programming. I admire Warren's ability to approach challenges methodically and solve problems with precision, indicating a promising future in the field of coding.",
         "profile": "https://i.ibb.co/WkTP9c4/akeefah.jpg"
     },
     {
     "fullname": "Tamlin Geyer",
     "title":"Front-End Developer",
-    "quotes": "Warren is a phenom. He is the guy that is guaranteed to bring both the skills and the passion to anything he puts his mind to. He always looks to motivate others to level up and achieve their true potential",
+    "quotes": "Warren is a phenom. He is the guy that is guaranteed to bring both the skills and the passion to anything he puts his mind to. He always looks to motivate others to level up and achieve their true potential.",
     "profile": "https://i.ibb.co/gtr9dP0/tamlin.jpg"
     },
 {
@@ -187,7 +187,7 @@
         },
         {
             "name":"HealthCare Inventory System",
-            "description":"This is my final capstone project that we had to work on which encompasses both backend and frontend",
+            "description":"This is my final capstone project that we had to work on which encompasses both backend and frontend.",
             "image":"https://i.ibb.co/Sd8xbvM/screencapture-capstone-inventorysystem-web-app-2024-03-25-14-53-47.png",
             "github":"https://github.com/Wareezy/HealthCare_Inventory_System-Capstone.git",
             "hosted":"https://capstone-inventorysystem.web.app"
@@ -195,7 +195,7 @@
         {
 
             "name":"OTAKU OASIS",
-            "description":"This is a e-commerce website I completed along with my teammate which involves node,Vue.js",
+            "description":"This is a E-commerce website I completed along with my teammate which involves node and Vue.js.",
             "image":"https://i.ibb.co/RgbD8vd/screencapture-eomp-node-wm-web-app-2024-03-25-15-04-55.png",
             "github":"https://github.com/Wareezy/NODE-EOMP-WM.git",
             "hosted":"https://eomp-node-wm.web.app"
@@ -203,49 +203,49 @@
         ,
         {
             "name": "Netflix",
-            "description":"This is a netflix replica that i created using bootstrap,html and css which i feel really shows off my design skills",
+            "description":"This is a netflix replica that I created using bootstrap,html and css which i feel really shows off my design skills.",
             "image": "https://i.ibb.co/S3LhwFR/screencapture-chipper-medovik-751781-netlify-app-html-landingpage-2024-04-01-19-43-36.png",
             "gitHub": "https://github.com/Wareezy/Netflix.git",
             "hosted": "https://chipper-medovik-751781.netlify.app"
         },
         {
             "name": "Razor Website",
-            "description":"This is a razor replica website that i created using HTML,CSS and Javascript",
+            "description":"This is a razor replica website that I created using HTML,CSS and Javascript.",
             "image": "https://i.imgur.com/Xn2I5qQ.png",
             "gitHub": "https://github.com/Wareezy/RAZOR.git",
             "hosted": "https://coruscating-figolla-185758.netlify.app"  
         },
         {
             "name": "E-commerce",
-            "description":"This is a e-commerce website that i created using HTML,CSS and Javascript",
+            "description":"This is a E-commerce website that I created using HTML,CSS and Javascript.",
             "image": "https://i.imgur.com/KosrcBb.png",
             "gitHub": "https://github.com/Wareezy/lcEcommerce.git",
             "hosted": "https://phenomenal-zabaione-e6dc1f.netlify.app"
         },
         {
             "name": "Calculator",
-            "description":"This is a calculator that i created using HTML,CSS and Javascript",
+            "description":"This is a calculator that I created using HTML,CSS and Javascript.",
             "image": "https://i.imgur.com/czjzpni.png",
             "gitHub": "https://github.com/Wareezy/LC_Calculator.git",
             "hosted": "https://chic-hamster-ef7e4e.netlify.app"
         },
         {
             "name": "Keyboard",
-            "description":"This is a functional keyboard that i created using HTML,CSS and Javascript",
+            "description":"This is a functional keyboard that I created using HTML,CSS and Javascript.",
             "image": "https://i.imgur.com/D660Usa.png",
             "gitHub": "https://github.com/Wareezy/KEYBOARD.git",
             "hosted": "https://clinquant-dodol-3631a8.netlify.app"  
         },
         {
             "name": "E-commerce",
-            "description":"This is a e-commerce website that i created using HTML and CSS",
+            "description":"This is a E-commerce website that I created using HTML and CSS.",
             "image": "https://i.imgur.com/mUV89i4.png",
             "gitHub": "https://github.com/Wareezy/E-Commerce.git",
             "hosted": "https://admirable-florentine-ab4de0.netlify.app"  
         },
         {
             "name": "TO-DO-LIST",
-            "description":"Fully functional To do list done with HTML,CSS and Javascript",
+            "description":"Fully functional To do list done with HTML,CSS and Javascript.",
             "image": "https://i.ibb.co/Nm0kYcp/screencapture-stalwart-dragon-3d7c9d-netlify-app-2024-03-25-15-35-12.png",
             "gitHub": "https://github.com/Wareezy/lcToDoLIST.git",
             "hosted": "https://stalwart-dragon-3d7c9d.netlify.app"  
