@@ -120,16 +120,17 @@
         },
         {
             "id":1,
-        "description":"Internship at CPUT working on a bursary management system for advanced department of CPUT-District 6 campus- WORDPRESS.",
-        "duration":"July 2022-December 2022",
-        "reference":" inderlalp@cput.ac.za  - Ms Prima Inderlal"
-        },
-        {
-            "id":2,
             "description":"Developed Commerce Website along side a development team named DigiSail.",
             "duration":"1st August 2023-Current",
             "reference":"nawaazamien9@gmail.com- Nawaaz Amien" 
+        },
+        {
+            "id":2,
+        "description":"Internship at CPUT working on a bursary management system for advanced department of CPUT-District 6 campus- WORDPRESS.",
+        "duration":"July 2022-December 2022",
+        "reference":" inderlalp@cput.ac.za  - Ms Prima Inderlal"
         }
+        
     ],
     "downloadHeading":[
         {
