@@ -39,25 +39,35 @@
         },
         {
             "id": 1,
-            "description": "High Certificate in Information,Communication and Technology",
-            "place": "Cape Peninsula University of Technology",
-            "year": 2019,
-            "type": "Certificate"
+            "description": "Life Choices Coding Bootcamp",
+            "place": "Life Choices",
+            "year": 2024,
+            "type": "Certificate"  
         },
+
         {
-            "id": 2, 
+            "id": 2,
+            "description": "B-Tech in Information and Communication Technology:Application Development",
+            "place": "Cape Peninsula University of Technology",
+            "year": 2024,
+            "type": "B-tech"
+        }, 
+        {
+            "id": 3, 
             "description": "Diploma in Information,Communication and Technology:Application Development",
             "place": "Cape Peninsula University of Technology",
             "year": 2022,
             "type": "Diploma"
         },
         {
-            "id": 3,
-            "description": "B-Tech in Information and Communication Technology:Application Development",
+            "id": 4,
+            "description": "High Certificate in Information,Communication and Technology",
             "place": "Cape Peninsula University of Technology",
-            "year": 2024,
-            "type": "B-tech"
+            "year": 2019,
+            "type": "Certificate"
         }
+       
+        
 
     ],
     "skills": [
