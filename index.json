@@ -152,14 +152,23 @@
         },
         {
             "id":1,
-            "description":"Developed Commerce Website along side a development team named DigiSail.",
-            "duration":"1st August 2023-Current",
-            "reference":"nawaazamien9@gmail.com- Nawaaz Amien" 
+        "description":"LC studio Intern",
+        "duration":"March 2022-Current",
+        "position":"Cyber Security Specialist",
+        "reference":" ehrin@lifechoices.co.za  - Mr Ehrin Manuel"
         },
         {
             "id":2,
+            "description":"Developed Commerce Website along side a development team named DigiSail.",
+            "duration":"1st August 2023-10 August 2023",
+            "position":"Full-Stack Web Developer",
+            "reference":"nawaazamien9@gmail.com- Nawaaz Amien" 
+        },
+        {
+            "id":3,
         "description":"Internship at CPUT working on a bursary management system for advanced department of CPUT-District 6 campus- WORDPRESS.",
         "duration":"July 2022-December 2022",
+        "position":"Software Developer",
         "reference":" inderlalp@cput.ac.za  - Ms Prima Inderlal"
         }
         
